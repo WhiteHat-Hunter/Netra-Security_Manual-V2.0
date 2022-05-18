@@ -1,6 +1,6 @@
 ![](logo.png)
 <h1 style=bold>🔰 Netra Security V2.0 🔰</h1>
-## A Simple Chrome Based Extension to Verify if the Website is Safe or Not.
+# A Simple Chrome Based Extension to Verify if the Website is Safe or Not.
 
 # Features ✨
 - Manual Work
