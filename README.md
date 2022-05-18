@@ -15,7 +15,7 @@
 
 # Requirements 📂
 - Chrome Browser 🌐
-- Any Windows or Linux OS💻
+- Any Windows or Linux OS 💻
 
 # Installation ⬇️
 - In Linux git clone https://www.github.com/WhiteHat-Hunter/Netra-Security_Manual-V2.0  OR  Download as zip if in Windows
