@@ -1,0 +1,15 @@
+{
+    "name":"Netra Security",
+    "version":"2.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo.png"
+    },
+    "description":"Simple URL/Domain Validator to check if the Wbsite is Safe or Not.",
+    "author": "Siddhesh Surve",
+    "icons":{
+        "128":"logo.png"
+    },
+    "permissions":["activeTab"]
+}
