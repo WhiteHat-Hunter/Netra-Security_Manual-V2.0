@@ -5,7 +5,7 @@
 
 # Features ✨
 - Manual Work
-- 90% Accurate Work
+- 99% Accurate Work
 - Runs Offline
 - No Limitations
 - Direct Installation
@@ -25,7 +25,7 @@
 
 # Usage 👨‍💻
 - Pin the Extension & Click on it
-- Type and Website to Check if it is Safe or Not
+- Type any Website with Correct URL to Check if it is Safe or Not
 
 # Very Imp 🔴
 - First, Check your Chrome Version which Satisfy the Extension
